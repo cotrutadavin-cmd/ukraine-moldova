@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Такси Украина ↔ Молдова</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background: #000;
+            color: #fff;
+            padding: 30px 15px;
+            text-align: center;
+        }
+        section {
+            padding: 20px;
+            max-width: 900px;
+            margin: auto;
+        }
+        .box {
+            background: #fff;
+            padding: 20px;
+            margin-bottom: 20px;
+            border-radius: 8px;
+        }
+        h1, h2 {
+            margin-top: 0;
+        }
+        .buttons a {
+            display: inline-block;
+            margin: 10px 10px 0 0;
+            padding: 15px 20px;
+            text-decoration: none;
+            color: #fff;
+            border-radius: 6px;
+            font-weight: bold;
+        }
+        .call {
+            background: #28a745;
+        }
+        .whatsapp {
+            background: #25d366;
+        }
+        footer {
+            text-align: center;
+            padding: 15px;
+            background: #ddd;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Такси Украина ↔ Молдова</h1>
+    <p>Международные перевозки • 24/7</p>
+</header>
+
+<section>
+    <div class="box">
+        <h2>📞 Контакты</h2>
+        <p><strong>Телефон:</strong> +373 685 10 933</p>
+        <div class="buttons">
+            <a class="call" href="tel:+37368510933">Позвонить</a>
+            <a class="whatsapp" href="https://wa.me/37368510933" target="_blank">WhatsApp</a>
+        </div>
+    </div>
+
+    <div class="box">
+        <h2>🚖 Маршруты</h2>
+        <ul>
+            <li>Украина → Молдова</li>
+            <li>Молдова → Украина</li>
+            <li>Кишинёв, Одесса, Киев и другие города</li>
+        </ul>
+    </div>
+
+    <div class="box">
+        <h2>⭐ Почему выбирают нас</h2>
+        <ul>
+            <li>Опыт международных поездок</li>
+            <li>Безопасно и комфортно</li>
+            <li>Фиксированная цена</li>
+            <li>Работаем 24/7</li>
+        </ul>
+    </div>
+</section>
+
+<footer>
+    © 2026 Такси Украина ↔ Молдова
+</footer>
+
+</body>
+</html>
