@@ -1,97 +1,50 @@
 <!DOCTYPE html>
-<html lang="ru">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Такси Украина ↔ Молдова</title>
+    <title>Taxi Ukraine ↔ Moldova | Reliable Private Transfers</title>
     <style>
-        body {
-            margin: 0;
-            font-family: Arial, sans-serif;
-            background: #f4f4f4;
-            color: #333;
+        body { font-family: sans-serif; margin: 0; text-align: center; color: #333; }
+        header { background: #fbc02d; padding: 40px 20px; }
+        h1 { margin: 0; font-size: 2.5em; }
+        .container { padding: 20px; max-width: 600px; margin: auto; }
+        .btn { 
+            display: inline-block; background: #25d366; color: white; 
+            padding: 20px 40px; text-decoration: none; border-radius: 50px; 
+            font-weight: bold; font-size: 1.2em; margin: 20px 0;
         }
-        header {
-            background: #000;
-            color: #fff;
-            padding: 30px 15px;
-            text-align: center;
-        }
-        section {
-            padding: 20px;
-            max-width: 900px;
-            margin: auto;
-        }
-        .box {
-            background: #fff;
-            padding: 20px;
-            margin-bottom: 20px;
-            border-radius: 8px;
-        }
-        h1, h2 {
-            margin-top: 0;
-        }
-        .buttons a {
-            display: inline-block;
-            margin: 10px 10px 0 0;
-            padding: 15px 20px;
-            text-decoration: none;
-            color: #fff;
-            border-radius: 6px;
-            font-weight: bold;
-        }
-        .call {
-            background: #28a745;
-        }
-        .whatsapp {
-            background: #25d366;
-        }
-        footer {
-            text-align: center;
-            padding: 15px;
-            background: #ddd;
-        }
+        .services { text-align: left; background: #f4f4f4; padding: 20px; border-radius: 10px; }
+        footer { margin-top: 50px; font-size: 0.8em; color: #777; }
     </style>
 </head>
 <body>
 
 <header>
-    <h1>Такси Украина ↔ Молдова</h1>
-    <p>Международные перевозки • 24/7</p>
+    <h1>Taxi Ukraine ↔ Moldova</h1>
+    <p>Safe & Reliable Border Transfers</p>
 </header>
 
-<section>
-    <div class="box">
-        <h2>📞 Контакты</h2>
-        <p><strong>Телефон:</strong> +373 685 10 933</p>
-        <div class="buttons">
-            <a class="call" href="tel:+37368510933">Позвонить</a>
-            <a class="whatsapp" href="https://wa.me/37368510933" target="_blank">WhatsApp</a>
-        </div>
-    </div>
+<div class="container">
+    <h2>Need a ride?</h2>
+    <p>I provide private transfers between all major cities in Ukraine and Moldova, including airport pickups.</p>
+    
+    <a href="https://wa.me/380000000000" class="btn">Message me on WhatsApp</a>
 
-    <div class="box">
-        <h2>🚖 Маршруты</h2>
+    <div class="services">
+        <h3>Popular Routes:</h3>
         <ul>
-            <li>Украина → Молдова</li>
-            <li>Молдова → Украина</li>
-            <li>Кишинёв, Одесса, Киев и другие города</li>
+            <li>Chișinău ↔ Odesa</li>
+            <li>Chișinău ↔ Kyiv</li>
+            <li>Palanca Border ↔ Any City</li>
         </ul>
+        <h3>Why choose me?</h3>
+        <p>✅ Comfortable Car | ✅ Large Trunk | ✅ 24/7 Service</p>
     </div>
-
-    <div class="box">
-        <h2>⭐ Почему выбирают нас</h2>
-        <ul>
-            <li>Опыт международных поездок</li>
-            <li>Безопасно и комфортно</li>
-            <li>Фиксированная цена</li>
-            <li>Работаем 24/7</li>
-        </ul>
-    </div>
-</section>
+</div>
 
 <footer>
-    © 2026 Такси Украина ↔ Молдова
+    <p>© 2026 Ukraine-Moldova Taxi Transfers</p>
 </footer>
 
 </body>
